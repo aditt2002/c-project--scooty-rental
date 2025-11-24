@@ -5,11 +5,15 @@ A comprehensive C programming project for managing scooter rentals with features
 ## Project Structure
 
 ```
-.
-├── rental_manager.h    # Header file with structures and function declarations
-├── rental_manager.c    # Implementation of all management functions
-├── main.c             # Main program with user interface
-├── Makefile           # Build automation
+project/
+├── docs/
+│   ├── ProjectReport.pdf
+├── src/
+│   ├── rental_manager.h
+│   ├── rental_manager.c
+│   └── main.c
+└── include/
+    ├── Makefile
 └── README.md          # This file
 ```
 
@@ -183,5 +187,5 @@ Created as a C programming educational project demonstrating:
 
 
 By:
-Arahan Chaudhary
-Aditya Satyam
+- Arahan Chaudhary
+- Aditya Satyam
