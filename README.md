@@ -1,4 +1,3 @@
-
 # Scooter Rental Management System
 
 A comprehensive C programming project for managing scooter rentals with features for fleet management, customer registration, and rental tracking.
@@ -182,3 +181,7 @@ Created as a C programming educational project demonstrating:
 - User interface design
 - Time-based calculations
 
+
+By:
+Arahan Chaudhary
+Aditya Satyam
